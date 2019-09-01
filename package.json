@@ -1,0 +1,16 @@
+{
+  "name": "platzigram",
+  "version": "0.1.0",
+  "description": "Proyecto de Platzigram",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Proyecto",
+    "de",
+    "Platzigram"
+  ],
+  "author": "Luis Hereñu",
+  "license": "MIT"
+}
